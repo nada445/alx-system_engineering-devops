@@ -1,2 +1,2 @@
 #!/bin/bash
-cp --no-clobber --update *.html
+cp --no-clobber --update *.html ..
