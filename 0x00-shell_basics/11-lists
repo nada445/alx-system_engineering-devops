@@ -1,0 +1,2 @@
+#!/bash/ban
+ls -la --recursive
