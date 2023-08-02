@@ -1,2 +1,3 @@
 #!/bin/bash
-ls -m -a -p
+ls -m -a --indicator-style=slash
+echo -e 
