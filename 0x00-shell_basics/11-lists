@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -la --recursive
+ls -la /11-lists/0x00-shell_basics/boot
