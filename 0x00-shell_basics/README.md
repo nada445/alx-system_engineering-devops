@@ -1,1 +1,0 @@
-this a script to print out the absolute path for the working dir
