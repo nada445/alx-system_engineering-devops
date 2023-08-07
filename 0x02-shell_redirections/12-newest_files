@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -mindepth 1 -printf '%TY-%Tm-%TdT%TT %p\n' |sort|ls -l -t |tail -10
+ find -type f|ls -l -t| head -n 10
